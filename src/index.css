@@ -1,0 +1,295 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --burgundy: #651b28;
+  --burgundy-deep: #4a121d;
+  --ivory: #fff6e8;
+  --gold: #e7b958;
+  --vermilion: #b93432;
+  --forest: #344a3b;
+  --parchment: #f3e5ce;
+  --charcoal: #252525;
+  --ink-soft: #5b4a45;
+  --display: 'Cormorant Garamond', Cormorant, Georgia, 'Times New Roman', serif;
+  --sans: Manrope, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #2a1c18;
+  color: var(--charcoal);
+  font-family: var(--sans);
+  overflow: hidden;
+  overscroll-behavior: none;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+#stage {
+  --vp-x: 50vw;
+  --vp-y: 56vh;
+  touch-action: none;
+  background: #f6dcb4;
+}
+
+#stage .layer {
+  transform-origin: var(--vp-x) var(--vp-y);
+  pointer-events: none;
+}
+
+#stage svg {
+  display: block;
+  overflow: visible;
+}
+
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+
+:focus-visible {
+  outline: 2.5px solid var(--gold);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* soft ivory light behind text that sits directly on a scene, so it reads on any sky */
+.scene-scrim {
+  position: relative;
+  isolation: isolate;
+}
+.scene-scrim::before {
+  content: '';
+  position: absolute;
+  inset: -40px -60px;
+  z-index: -1;
+  background: radial-gradient(closest-side, rgba(255, 246, 232, 0.86), rgba(255, 246, 232, 0.55) 55%, rgba(255, 246, 232, 0));
+  pointer-events: none;
+}
+
+.thin-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(101, 27, 40, 0.35) transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* gentle glow behind the pandal "Open" hotspot */
+.pandal-pulse {
+  background: radial-gradient(closest-side, rgba(255, 214, 140, 0.75), rgba(255, 190, 110, 0.25) 60%, rgba(255, 190, 110, 0));
+  animation: pandal-pulse 2.6s ease-in-out infinite;
+}
+@keyframes pandal-pulse {
+  0%, 100% { opacity: 0.55; transform: translate(-50%, -50%) scale(0.92); }
+  50% { opacity: 1; transform: translate(-50%, -50%) scale(1.06); }
+}
+
+/* ---- cinematic grade: slow light shafts and drifting festival bokeh */
+.grade-rays {
+  animation: grade-rays 18s ease-in-out infinite alternate;
+}
+@keyframes grade-rays {
+  from { transform: rotate(-1.6deg); }
+  to { transform: rotate(1.6deg); }
+}
+.grade-bokeh {
+  animation: grade-bokeh 11s ease-in-out infinite alternate;
+}
+@keyframes grade-bokeh {
+  0% { transform: translate(0, 0) scale(1); opacity: 0.75; }
+  50% { opacity: 1; }
+  100% { transform: translate(14px, -10px) scale(1.08); opacity: 0.6; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .grade-rays, .grade-bokeh { animation: none; }
+}
+
+/* ---- the stop's main call to action: a soft festive glow that breathes */
+.cta-glow {
+  box-shadow: 0 14px 30px -12px rgba(40, 10, 15, 0.9), 0 0 0 0 rgba(231, 185, 88, 0.45);
+  animation: cta-glow 2.8s ease-in-out infinite;
+}
+@keyframes cta-glow {
+  0%, 100% { box-shadow: 0 14px 30px -12px rgba(40, 10, 15, 0.9), 0 0 0 0 rgba(231, 185, 88, 0.4); }
+  50% { box-shadow: 0 14px 30px -12px rgba(40, 10, 15, 0.9), 0 0 0 8px rgba(231, 185, 88, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cta-glow { animation: none; }
+}
+
+/* ---- hero canopy: torans and marigold strings in a rush of air.
+   .tw-gust is one shared gust that rolls across the canopy (each piece's delay follows its x), pushing the
+   cloth over to the right and letting it spring back; .tw-flutter is each piece's own quick flutter. */
+.tw-gust,
+.tw-flutter {
+  transform-origin: 50% 0;
+  will-change: transform;
+}
+.tw-gust {
+  animation: tw-gust 9s cubic-bezier(0.45, 0.05, 0.4, 1) infinite;
+}
+@keyframes tw-gust {
+  0% { transform: rotate(calc(var(--amp) * -1deg)) skewX(0deg); }
+  10% { transform: rotate(calc(var(--amp) * -7deg)) skewX(calc(var(--amp) * 2deg)); }
+  17% { transform: rotate(calc(var(--amp) * -4.5deg)) skewX(calc(var(--amp) * 1deg)); }
+  27% { transform: rotate(calc(var(--amp) * -10deg)) skewX(calc(var(--amp) * 3deg)); }
+  36% { transform: rotate(calc(var(--amp) * -6deg)) skewX(calc(var(--amp) * 1.5deg)); }
+  48% { transform: rotate(calc(var(--amp) * -1deg)) skewX(0deg); }
+  58% { transform: rotate(calc(var(--amp) * 3deg)) skewX(calc(var(--amp) * -1deg)); }
+  70% { transform: rotate(calc(var(--amp) * -1.5deg)) skewX(0deg); }
+  82% { transform: rotate(calc(var(--amp) * 1deg)) skewX(0deg); }
+  100% { transform: rotate(calc(var(--amp) * -1deg)) skewX(0deg); }
+}
+.tw-flutter {
+  animation: tw-flutter 2s ease-in-out infinite alternate;
+}
+@keyframes tw-flutter {
+  from { transform: rotate(calc(var(--amp) * -1.6deg)) skewX(calc(var(--amp) * 1.8deg)) scaleX(1); }
+  to { transform: rotate(calc(var(--amp) * 1.4deg)) skewX(calc(var(--amp) * -1.8deg)) scaleX(0.95); }
+}
+.tw-petal {
+  position: absolute;
+  left: 0;
+  border-radius: 60% 40% 60% 40%;
+  animation: tw-petal 10s linear infinite;
+}
+@keyframes tw-petal {
+  0% { transform: translate3d(-4vw, 0, 0) rotate(0deg); }
+  25% { transform: translate3d(25vw, calc(var(--dy) * 0.3 + 18px), 0) rotate(200deg); }
+  50% { transform: translate3d(52vw, calc(var(--dy) * 0.55 - 10px), 0) rotate(380deg); }
+  75% { transform: translate3d(78vw, calc(var(--dy) * 0.8 + 14px), 0) rotate(560deg); }
+  100% { transform: translate3d(106vw, var(--dy), 0) rotate(760deg); }
+}
+/* the cloud bank drifts a little in the same air */
+.tw-cloudbank {
+  animation: tw-cloudbank 16s ease-in-out infinite alternate;
+}
+@keyframes tw-cloudbank {
+  from { transform: translate3d(-14px, 0, 0); }
+  to { transform: translate3d(14px, -4px, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tw-cloudbank,
+  .tw-gust, .tw-flutter, .tw-petal { animation-play-state: paused; }
+}
+/* ---- slow drifting clouds */
+.cloud-drift {
+  animation-name: cloud-drift;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@keyframes cloud-drift {
+  from { transform: translateX(-520px); }
+  to { transform: translateX(2120px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cloud-drift { animation-play-state: paused; }
+}
+
+/* ---- ambient life */
+.walk-bob {
+  animation: walk-bob 0.55s ease-in-out infinite alternate;
+}
+@keyframes walk-bob {
+  from { transform: translateY(0); }
+  to { transform: translateY(-0.05px); }
+}
+.dhaki-sway {
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+  animation: dhaki-sway 0.9s ease-in-out infinite alternate;
+}
+@keyframes dhaki-sway {
+  from { transform: rotate(-3deg); }
+  to { transform: rotate(3deg); }
+}
+.dhaki-plume {
+  animation: dhaki-plume 0.45s ease-in-out infinite alternate;
+}
+@keyframes dhaki-plume {
+  from { transform: rotate(-9deg); }
+  to { transform: rotate(7deg); }
+}
+.dhaki-stick {
+  transform-box: fill-box;
+  transform-origin: 0% 0%;
+  animation: dhaki-stick 0.22s ease-in-out infinite alternate;
+}
+@keyframes dhaki-stick {
+  from { transform: rotate(-14deg); }
+  to { transform: rotate(10deg); }
+}
+.leg-a, .leg-b {
+  transform-box: fill-box;
+  transform-origin: 50% 0%;
+  animation: leg-swing 1.4s ease-in-out infinite alternate;
+}
+.leg-b { animation-delay: -0.7s; }
+@keyframes leg-swing {
+  from { transform: rotate(-7deg); }
+  to { transform: rotate(7deg); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .walk-bob, .dhaki-sway, .dhaki-plume, .dhaki-stick, .leg-a, .leg-b { animation: none; }
+}
+
+/* ---- header call to action: polished gold, crisp edges, no glow */
+.hdr-cta {
+  background: linear-gradient(180deg, #fbe39a 0%, #f0c661 42%, #dfa93f 100%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), inset 0 -1px 0 rgba(150, 100, 20, 0.35);
+}
+.hdr-cta:hover {
+  background: linear-gradient(180deg, #fde8ab 0%, #f4cf74 42%, #e6b24a 100%);
+}
+
+/* ---- hero heading: the red of the reference, deepening to maroon at the foot of the letters (a fill, no edge or glow) */
+.hero-red {
+  color: #9b1522;
+  background: linear-gradient(180deg, #c8222c 0%, #a3141f 50%, #6e0d18 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes collect-pop {
+  0% { transform: scale(0.6); }
+  70% { transform: scale(1.12); }
+  100% { transform: scale(1); }
+}
+@media (prefers-reduced-motion: reduce) {
+  [class*='collect-pop'] { animation: none !important; }
+}

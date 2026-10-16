@@ -1,0 +1,413 @@
+Durga Puja X Emergent I Vibecoded Website
+
+The idea is to create a fun & interactive vibecoded guide for Kolkata's Durga Puja,
+basically a complete pandal-hopping playbook designed to keep the chaos at bay 
+and the festive vibes high! 
+
+It features an immersive layout packed with:
+Must-see art, themes, and hidden gems at every stop
+Local cultural highlights, rituals, and festive happenings nearby
+Top-tier street food recommendations and legendary eats
+Go-to food stalls, iconic sweet shops, and night-owl dining spots
+Simply pick your dates and preferences, and let it craft a personalized, 
+stress-free route for the ultimate Durga Puja adventure!
+
+We can then collab with 2-3 influencers who are from 
+Kolkata & post about the same like the ref reel below:
+
+https://www.instagram.com/reel/DeEdhPISIyW/?stkn=MWhjbmhubXNlajlseA==     
+Notes & Sources for the VibeCoder:
+The concept
+Pujo in Bengaluru:
+Find your pandal, your people, and your perfect plate.
+Pick your dates, neighbourhood, and preferences to discover Durga Puja celebrations, join rituals, enjoy cultural performances, and eat your way through a personalized festive itinerary.
+Build around four experiences:
+Puja & rituals: Pushpanjali, arati, bhog, and Dashami celebrations.
+Culture & community: Music, dance, performances, and adda.
+Food & mishti: Pandal stalls, Bengali restaurants, and sweet shops.
+Easy outings: Plans that account for travel, meals, group needs, and the journey home.
+Bengaluru’s celebrations are geographically dispersed and annual venues can change, making location and current-year verification particularly important. Bengaluru venue guide
+Pujas to include in the starting directory
+Celebration
+Area / published venue
+Current research status
+Website category
+Assam Society of Bangalore
+Freedom International School Ground, HSR Layout
+16–21 October 2026 published
+Rituals, cultural evening, community
+Bengaluru Sreehatta Sammelani — BSS
+The Occasion, Hoodi
+16–21 October 2026 published
+Sylheti culture, community
+Udaan Socio-Cultural Society
+Whitefield Convention Centre, Essotto Business Hotel, next to Nallurhalli Metro
+16–21 October 2026 published
+Culture, Metro-linked outing
+RT Nagar Socio Cultural Trust
+Palace Grounds, Gate 9
+15–21 October 2026 published
+Cultural outing, central/north
+KSUC Bangalore
+Siri Convention Hall, Bilekahalli
+2026 venue published; detailed schedule needs checking
+South Bengaluru community
+Poorva Bangalore Cultural Association — PBCA
+Website currently lists KTPO, EPIP 2nd Phase, Whitefield
+Venue listed; confirm edition dates and programme
+East Bengaluru community
+The Bengalee Association Bangalore
+1/A, Assaye Road, near Ulsoor Lake
+Retrieved event page is 2025; confirm 2026 arrangements
+Established community, rituals
+Whitefield Cultural Association
+Whitefield; exact annual venue to verify
+Retrieved website still presents 2025
+Community, cultural programmes
+EBCA
+Whitefield; current venue to verify
+Retrieved programme is 2025
+Culture, art, food
+Sarathi Socio-Cultural Trust
+Koramangala
+Conflicting venue information; verify directly before routing
+Community, culture
+
+Sources for the published 2026 listings: Assam Society, BSS, Udaan, RT Nagar, and KSUC.
+For the remaining listings: PBCA, Bengalee Association’s 2025 event, Whitefield Cultural Association, and EBCA’s 2025 programme.
+Sarathi needs special attention: its established trust website lists Mangala Kalyana Mantapa, Koramangala 7th Block, while another Sarathi-branded website advertises a 2026 celebration at BBMP Ground, 5th Block. Keep its current venue unconfirmed until the trust resolves this.
+You can expand the directory with Tridharaa, Sanskritik JP Nagar, RGBCF near Hosa Road, KARBA on Kanakapura Road, and Begur Bengali Socio-Cultural Trust. These are discovery candidates, with annual details requiring verification. Community directory, Begur organizer website
+Exact programme data you can already use
+Assam Society’s published programme provides a useful example of the detail your website should capture:
+Date
+Published activity
+Time, IST
+15 October 2026
+Idol arrival, Kalash Sthapana, lamp lighting
+5pm
+16 October
+Bodhan, Aamontron, Adhivaash
+Evening; exact time unspecified
+17 October
+Pushpanjali
+11am
+17 October
+Bhog distribution
+1–3pm
+17 October
+Sandhya arati and cultural programme
+5–10pm
+
+These timings apply to this organizer, not every Bengaluru puja. Refresh them from the organizer’s schedule before launch.
+Food places to include
+Make Bengali festival food the main food experience, with a separate option for nearby Bengaluru favourites.
+Food stop
+Published location
+Suggested experience
+Data status
+Bhojohori Manna
+668/B, 6th Block, 6th Cross, Koramangala Club Road
+Bengali sit-down meal
+Address on official website
+Oh! Calcutta Church Street
+14, Church Street, 2nd Floor
+Bengali dining
+Address on official website
+Oh! Calcutta  Whitefield
+28/2, 1st Floor, Siddapura, Whitefield Main Road
+East Bengaluru meal stop
+Address on official website
+Esplanade
+Double Road, Indiranagar
+Fish Orly, Gondhoraj ghol, Bengali meal, dessert
+Listings disagree on building number; confirm pin
+K. C. Das - St Marks Road
+48, St Marks Road
+Rosogolla and other Bengali sweets
+Current delivery-platform listing
+Banchharam’s - Koramangala/BTM listing
+Published as 153, BTM Layout, near Sheela Arcade
+Radhaballavi, chamcham, rasmalai
+Confirm entrance and map pin
+Banchharam’s - Marathahalli
+Marathahalli Main Road
+Sandesh and mishti doi
+Current delivery-platform listing
+Empire - Church Street
+36, Church Street
+Optional meal after a cultural evening
+Listing advertises service until 2:30am; recheck
+
+Sources: Bhojohori Manna’s official locations, Oh! Calcutta’s official locations, Esplanade listing, K. C. Das listing, Banchharam’s Koramangala listing, Marathahalli listing, and Empire’s hours.
+Treat this as a curated shortlist, not a verified ranking of the “best.” Do not carry normal prices or hours into the festival edition without checking.
+For pandal food stalls, collect the current vendor roster from each organizer. Tag actual dishes such as:
+Category
+Items to look for and verify
+Snacks
+Rolls, fish fry, chops, phuchka, ghugni
+Meals
+Bengali thali, biryani, luchi–alur dom
+Bhog
+Khichuri, vegetables, chutney and sweets, according to venue
+Mishti
+Sandesh, rosogolla, mishti doi, chamcham
+Vegetarian choices
+Verified dishes and ingredients
+
+These are collection categories—not claims that every pandal offers them. Give bhog its own record with serving time, token requirements, price if any, and availability.
+How the planner should categorize Bengaluru
+Use starting location and actual travel times to select among these proposed zones:
+Planning zone
+Candidate celebrations
+Recommended format
+East: Whitefield–Hoodi
+Udaan, BSS, PBCA; confirmed annual WCA/EBCA venues
+One anchor puja + optional nearby second
+
+
+
+
+
+
+
+For Bengaluru, I’d make this a neighbourhood-based Durga Puja experience planner, combining pandals, bhog, cultural programmes, Bengali food, and practical travel plans.
+Bengaluru’s celebrations are spread across the city, so the product should help people enjoy one main celebration and an optional nearby second stop, with enough time for food and performances. Local guides also recommend planning by zone because venues can change annually. Bengaluru Pujo guide
+Below is the Bengaluru version, researched for 2026. “Published for 2026” means an organizer’s website lists it; entrances, access rules and last-minute changes still need checking before launch.
+The website concept
+Pick your dates, starting neighbourhood and Pujo mood. Discover celebrations, enjoy Bengali food and cultural performances, and get an itinerary that fits your time and travel preferences.
+Useful experience categories:
+Category
+What the planner prioritizes
+Pujo near me
+Celebrations convenient to the user’s starting point
+Anjali & bhog
+Confirmed ritual and meal schedules
+Food-first Pujo
+Pandal food stalls, Bengali restaurants and sweets
+Cultural evenings
+Music, dance, theatre and announced performances
+Family day out
+Verified seating, toilets, access and manageable travel
+First Pujo experience
+Ritual explanations, food suggestions and an approachable itinerary
+Pandal hopping
+Two or three stops only when travel time permits
+
+Bengaluru pandals and celebrations to include
+Celebration
+Area / published venue
+Verification status
+Website role
+Assam Society of Bangalore
+Freedom International School Ground, HSR Layout
+2026 published: 16–21 October
+Rituals, bhog and cultural-evening anchor
+Bengaluru Sreehatta Sammelani - BSS
+The Occasion, Hoodi
+2026 published: 16–21 October
+Hoodi community celebration
+Udaan Socio-Cultural Society
+Whitefield Convention Centre, Essotto Business Hotel, next to Nallurhalli Metro
+2026 published: 16–21 October
+Metro-oriented Whitefield option
+RT Nagar Socio Cultural Trust
+Palace Grounds, Gate 9
+2026 published: 15–21 October
+Central/north celebration anchor
+KSUC Bangalore
+Siri Convention Hall, Bilekahalli
+2026 venue published
+South Bengaluru anchor
+Poorva Bangalore Cultural Association - PBCA
+Website currently lists KTPO, Whitefield Industrial Area
+Venue published; confirm festival-year details
+Whitefield circuit candidate
+
+Organizer sources: Assam Society, BSS, Udaan, RT Nagar, KSUC, PBCA.
+For accurate venue records:
+BSS: The Occasion Bengaluru, Sri Devi Anugraha, Anup Layout, Basi Reddy Garden, KR Puram Road, Hoodi, Bengaluru 560048. Organizer venue details
+KSUC: Siri Convention Hall, #4, 60 Feet Road, Shanbhog Naggappa Layout, Bilekahalli, Bengaluru 560076. Organizer venue details
+Keep these additional established celebrations in the directory, with clear confirmation labels:
+Celebration
+Area / available information
+What remains to verify
+The Bengalee Association Bangalore
+1/A, Assaye Road, near Ulsoor Lake
+Retrieved event page describes 2025; confirm 2026 programme
+Whitefield Cultural Association
+Whitefield
+Retrieved homepage is labelled 2025; confirm current venue and programme
+EBCA
+Whitefield
+Retrieved festival page describes 2025; confirm 2026 venue and activities
+Sarathi Socio-Cultural Trust
+Koramangala
+Resolve conflicting venue information before enabling directions
+Tridharaa Sarbojonin Durgotsav
+JP Nagar 8th Phase
+Exact 2026 venue, dates and programme
+Sanskritik Durga Puja
+JP Nagar 6th Phase
+Exact 2026 venue and schedule
+RGBCF
+Rayasandra / Hosa Road belt
+Exact 2026 venue and programme
+KARBA
+Kanakapura Road
+Exact 2026 venue and programme
+
+Sources: Bengalee Association, Whitefield Cultural Association, EBCA’s 2025 page, and the Bengaluru community directory.
+Sarathi needs particular care: its established website lists Mangala Kalyana Mantapa in Koramangala 7th Block, while another Sarathi-branded website advertises a 2026 celebration at BBMP Ground in 5th Block. Confirm directly with the trust before publishing a current venue.
+Do not transfer last year’s themes, performers or food stalls into the 2026 listings.
+Exact programme data you can already use
+Assam Society’s published 17 October 2026 programme at HSR Layout includes:
+Time, IST
+Activity
+11am
+Pushpanjali
+1–3pm
+Bhog distribution
+5–10pm
+Sandhya arati and cultural programme
+
+This supports an actual “Anjali + bhog” itinerary. The website also advertises a Navami performance by Richa Bharadwaj on 20 October. Preserve the organizer’s wording and recheck for changes. Published programme, festival announcement
+The same organizer lists preparatory idol arrival on 15 October at 5pm, followed by the main celebration from 16–21 October. Other venues may have different visitor windows, so store dates per celebration.
+Food shops and restaurants to build around
+Start with these branch-specific options. Suggested dishes are editorial recommendations; confirm the current menu before turning them into guaranteed inclusions.
+Food stop
+Published location
+What to try / feature
+Route fit
+Bhojohori Manna
+668/B, 6th Block, 6th Cross, Koramangala Club Road
+Bengali meal; verify festival menu
+Koramangala
+Oh! Calcutta, Church Street
+14, Church Street, 2nd Floor
+Sit-down Bengali lunch or dinner
+Central Bengaluru
+Oh! Calcutta, Whitefield
+28/2, 1st Floor, Siddapura, Whitefield Main Road
+Bengali meal
+Whitefield
+Esplanade
+Double Road, Indiranagar; current listings give number 201
+Fish Orly, kosha mangsho, gondhoraj ghol, sweets
+Ulsoor–Indiranagar extension
+K. C. Das
+48, St. Marks Road
+Rosogolla, rasmanjuri, ras kadam
+Central Bengaluru
+Banchharam’s, Koramangala/BTM listing
+Listing places it near Sheela Arcade; entrance needs checking
+Radhaballavi, chamcham, rasmalai
+Koramangala / BTM
+Banchharam’s, Marathahalli
+Marathahalli Main Road
+Sandesh, mishti doi and takeaway sweets
+Eastern circuit
+Empire, Church Street
+36, Church Street
+Broader Bengaluru dinner option
+Central route; late-night candidate
+
+Sources: Bhojohori Manna’s official locations, Oh! Calcutta’s official locations, Esplanade listing, K. C. Das listing, Banchharam’s Koramangala listing, Marathahalli listing.
+Empire’s Church Street listing currently publishes hours extending to 2:30am. Treat it as a late-night candidate and confirm last orders for the selected date. Branch hours
+For festival food stalls, collect the vendor, venue, stall number, dishes, prices and operating dates. Display bhog separately from commercial food: its serving time and ticket/token arrangements may differ.
+How to categorize and personalize the experience
+The starting neighbourhood should be one of the first questions.
+User input
+How it changes the plan
+Dates and available hours
+Filters celebrations and scheduled programmes
+Starting point and return destination
+Determines a feasible geographic circuit
+Rituals, food, art or performances
+Selects the main experience
+Relaxed or hopping pace
+Changes the number of venues
+Vegetarian / other dietary requirements
+Filters verified meal options
+Budget
+Balances stalls, restaurants and transport
+Children, older adults, mobility needs
+Prioritizes verified facilities and shorter transfers
+Metro / cab / own vehicle
+Changes travel legs, parking and return planning
+Must-see venue or performance
+Becomes the itinerary’s anchor
+
+Use this planning sequence:
+Find celebrations open during the chosen window.
+Choose one anchor venue based on interests and location.
+Reserve time for the chosen activity, such as bhog or a performance.
+Add food and an optional second celebration only if the travel budget allows.
+Include the trip home, plus a delay buffer.
+Explain every recommendation and offer a shorter alternative.
+If live traffic is available, use it. Otherwise, label journey times as estimates. Venue opening hours, concert access, bhog availability and Metro operating hours should each be verified independently.
+Suggested Bengaluru route products
+These are proposed itinerary templates, not verified turn-by-turn routes.
+Route
+Candidate experience
+Best audience
+HSR Pujo Day
+Assam Society: anjali → bhog → optional evening programme
+Rituals, families
+Whitefield Pujo Evening
+Udaan or PBCA as anchor; optional second confirmed venue; local dinner
+East Bengaluru residents
+Hoodi Community Pujo
+BSS rituals, food and announced cultural programme
+Hoodi / KR Puram belt
+Koramangala Food & Pujo
+Sarathi once venue is confirmed → Bhojohori Manna → sweets
+Food-led outing
+Ulsoor & Bengali Dinner
+Bengalee Association once 2026 is confirmed → Indiranagar or Church Street meal
+First-time visitors
+Palace Grounds Evening
+RT Nagar celebration → optional central-city dinner
+North / central Bengaluru
+South Bengaluru Pujo
+KSUC or a confirmed JP Nagar celebration as anchor
+South Bengaluru residents
+
+For Bengaluru, I’d use these initial product assumptions:
+Three hours: one celebration plus food.
+Five hours: one extended celebration, or two nearby stops.
+A full day: two or three venues within a sensible geographic circuit.
+Validate those assumptions through local walkthroughs before launch.
+What each listing needs
+Retain the permanent-directory and annual-edition structure from the Kolkata concept, but give these Bengaluru fields extra attention:
+Data
+Why it matters
+Organizer ID + annual venue ID
+A recurring puja can move between grounds or halls
+Exact visitor entrance
+Convention complexes can have multiple entrances
+Event-specific access
+Pandal entry, concerts, dandiya and meals may have different rules
+Parking and pickup point
+Helps users complete the visit
+Metro station and last-mile leg
+“Near Metro” alone is insufficient
+Bhog time and registration
+Enables a dependable meal plan
+Cultural programme start/end
+Makes the itinerary useful beyond pandal viewing
+Seating, toilets and covered space
+Supports family and accessibility preferences
+Source and checked date
+Shows whether information is current
+
+Display simple labels: Published for 2026, Previous-year information, Awaiting confirmation, and Estimated.
+For the influencer collaboration
+Use three locally tested experiences:
+A Bengali Bengaluru creator: anjali, bhog and community traditions.
+A Bengaluru food creator: festival stalls, Bengali meals and sweets.
+A city-discovery creator: a practical neighbourhood itinerary, including travel.
+Give each creator a shareable route visitors can customize. A relevant creator-discovery lead is Bong Tales From Bangalore, which publishes Bengaluru Pujo material; assess current audience, engagement and collaboration fit before outreach.
+Recommended launch scope: 8–12 confirmed celebrations, 8–10 checked food branches, and six practical itineraries. The strongest Bengaluru promise is: 
+“Find your Pujo, enjoy the programme and food, 
+and get a plan that fits your part of the city.”
+

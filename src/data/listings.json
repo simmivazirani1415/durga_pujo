@@ -1,0 +1,2276 @@
+[
+ {
+  "id": "assam-society",
+  "kind": "pandal",
+  "name": "Assam Society of Bangalore: 14th Shree Shree Durga Puja",
+  "organiser": "Assam Society of Bangalore",
+  "category": "Rituals, bhog and cultural evenings",
+  "venueName": "Freedom International School Ground",
+  "address": "Freedom International School Ground, CA #33, Sector IV, HSR Layout, Bengaluru",
+  "area": "hsr-layout",
+  "subArea": "HSR Layout",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "bhog": {
+   "access": "Daily puja and bhog (times not published)"
+  },
+  "programmes": [
+   "Daily puja and bhog",
+   "Cultural programmes",
+   "Dandiya night (date not published)",
+   "Food and flea stalls"
+  ],
+  "tags": [
+   "Rituals",
+   "Bhog",
+   "Cultural programmes",
+   "Dandiya"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates and venue published by the organiser. Programme dates and bhog times are not published yet.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/14th-shree-shree-durga-puja-2026-freedom-international-school-grounds-hsr-layout/200030738583909"
+   },
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "timings": "Fri 16 Oct 6 am to Wed 21 Oct 12 pm"
+ },
+ {
+  "id": "bss-hoodi",
+  "kind": "pandal",
+  "name": "Bengaluru Sreehatta Sammelani Durga Puja",
+  "organiser": "Bengaluru Sreehatta Sammelani (BSS)",
+  "category": "Sylheti culture and community",
+  "venueName": "The Occasion Bengaluru",
+  "address": "The Occasion Bangalore, Anup Layout, KR Puram Road, Hoodi, Bengaluru 560048",
+  "area": "whitefield-hoodi",
+  "subArea": "Hoodi",
+  "pincode": "560048",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "tags": [
+   "Sylheti culture",
+   "Community"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates, venue and daily timings published by the organiser.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/bss-durga-puja-2026/200030826283056"
+   },
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "timings": "Opens Fri 16 Oct 7 pm",
+  "schedule": [
+   {
+    "date": "2026-10-16",
+    "time": "7 pm",
+    "activity": "Opening"
+   },
+   {
+    "date": "2026-10-17",
+    "time": "11 am",
+    "activity": "Pushpanjali (daily, 11 am)"
+   },
+   {
+    "date": "2026-10-17",
+    "time": "7 pm",
+    "activity": "Sandhya arati (daily, 7 pm)"
+   },
+   {
+    "date": "2026-10-19",
+    "time": "7:26 am",
+    "activity": "Sandhi Puja"
+   },
+   {
+    "date": "2026-10-21",
+    "time": "10:30 am",
+    "activity": "Sindoor Khela"
+   }
+  ]
+ },
+ {
+  "id": "udaan-whitefield",
+  "kind": "pandal",
+  "name": "Udaan Socio-Cultural Society: Uma Durga Puja",
+  "organiser": "Udaan Socio-Cultural Society",
+  "category": "Culture, easy by metro",
+  "venueName": "Whitefield Convention Centre, Essotto Business Hotel",
+  "address": "Whitefield Convention Centre, Essotto Business Hotel, next to Nallurhalli Metro, Whitefield, Bengaluru",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "access": {
+   "metro": "Next to Nallurhalli metro station"
+  },
+  "tags": [
+   "Culture",
+   "Near metro"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates, venue and the Shashthi schedule published by the organiser. Check the exact entrance before you go.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Udaan: 2026 schedule",
+    "url": "https://www.udaanfamily.org/schedule"
+   },
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/uma-durga-puja-2026/200030778270557"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "schedule": [
+   {
+    "date": "2026-10-16",
+    "time": "9 am",
+    "activity": "Shashthi puja"
+   },
+   {
+    "date": "2026-10-16",
+    "time": "10:30 am",
+    "activity": "Pushpanjali"
+   },
+   {
+    "date": "2026-10-16",
+    "time": "6:30 pm",
+    "activity": "Arati"
+   },
+   {
+    "date": "2026-10-16",
+    "time": "7 pm",
+    "activity": "Bodhon"
+   }
+  ]
+ },
+ {
+  "id": "rt-nagar-trust",
+  "kind": "pandal",
+  "name": "RT Nagar Socio Cultural Trust Durga Puja",
+  "organiser": "RT Nagar Socio Cultural Trust",
+  "category": "Big Palace Grounds celebration, Kolkata idol",
+  "venueName": "Palace Grounds, Gate 9 (Princess Green)",
+  "address": "Princess Green, Gate 9, Palace Grounds, Bellary Road, Bengaluru",
+  "area": "rt-nagar-palace-grounds",
+  "subArea": "Palace Grounds",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-15",
+   "end": "2026-10-21"
+  },
+  "access": {
+   "entrance": "Gate 9, Palace Grounds"
+  },
+  "tags": [
+   "Cultural evening",
+   "Food stalls",
+   "Community lunch"
+  ],
+  "status": "published-2026",
+  "statusNote": "Confirmed by three 2026 news guides. Boldsky lists 15 to 21 October (15 October is likely the fair); others list 16 to 21 October.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "programmes": [
+   "Kolkata idol and theme",
+   "Around 40 stalls",
+   "Free community lunch",
+   "Artists on four evenings (names not published)"
+  ]
+ },
+ {
+  "id": "ksuc-bilekahalli",
+  "kind": "pandal",
+  "name": "KSUC Bangalore Durga Puja",
+  "organiser": "KSUC Bangalore",
+  "category": "South Bengaluru community celebration",
+  "venueName": "Siri Convention Hall",
+  "address": "Siri Convention Hall, #4, 60 Feet Road, Shanbhog Naggappa Layout, Bilekahalli, Bengaluru 560076",
+  "area": "south-east",
+  "subArea": "Bilekahalli",
+  "pincode": "560076",
+  "editionYear": 2026,
+  "tags": [
+   "Community"
+  ],
+  "status": "published-2026",
+  "statusNote": "The organiser names Siri Convention Hall as its 2026 venue (14th year). Dates are from a 2026 directory; the organiser has not published them.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "KSUC Bangalore: Durga Puja venue 2026",
+    "url": "https://ksucbangalore.org/"
+   },
+   {
+    "label": "Newzchain 2026 puja directory",
+    "url": "https://pujo.newzchain.com/pujas/ksuc-durga-puja-2026"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  }
+ },
+ {
+  "id": "pbca-ktpo",
+  "kind": "pandal",
+  "name": "Poorva Bangalore Cultural Association Durga Puja",
+  "organiser": "Poorva Bangalore Cultural Association (PBCA)",
+  "category": "East Bengaluru community celebration",
+  "venueName": "KTPO",
+  "address": "KTPO, EPIP 2nd Phase, Whitefield Industrial Area, Bengaluru",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "tags": [
+   "Community"
+  ],
+  "status": "awaiting-confirmation",
+  "statusNote": "The organiser lists KTPO and a 23rd edition but shows no 2026 dates. Confirm before you go.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "PBCA website",
+    "url": "https://pbca.in/"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "bengalee-association",
+  "kind": "pandal",
+  "name": "The Bengalee Association Bangalore Durga Puja",
+  "organiser": "The Bengalee Association Bangalore",
+  "category": "Long-established celebration, rituals",
+  "venueName": "The Bengalee Association",
+  "address": "1/A Assaye Road, Shivan Chetty Garden, near Ulsoor Lake, Bengaluru 560042",
+  "area": "ulsoor",
+  "subArea": "Ulsoor",
+  "tags": [
+   "Rituals",
+   "Community"
+  ],
+  "status": "published-2026",
+  "statusNote": "The organiser lists Shri Shri Durga Puja for October 2026, and two news guides give 16 to 21 October. Bhog times are not published.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "The Bengalee Association",
+    "url": "https://thebengaleeassociation.com/"
+   },
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "pincode": "560042",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  }
+ },
+ {
+  "id": "wca-whitefield",
+  "kind": "pandal",
+  "name": "Whitefield Cultural Association Durga Puja",
+  "organiser": "Whitefield Cultural Association",
+  "category": "24th year, \"Sun Chariot\" theme",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "tags": [
+   "Community",
+   "Theme pandal",
+   "Fair"
+  ],
+  "status": "published-2026",
+  "statusNote": "Venue and theme from a 2026 news guide. Dates are from a 2026 directory, not the organiser.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   },
+   {
+    "label": "Newzchain 2026 puja directory",
+    "url": "https://pujo.newzchain.com/pujas/whitefield-cultural-association-durga-puja-2026"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "venueName": "Behind Mahaveer Tranquil, Palm Meadows",
+  "address": "Behind Mahaveer Tranquil, Palm Meadows, Nallurhalli, Whitefield, Bengaluru",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Theme: Sun Chariot",
+   "Fair with food stalls and rides"
+  ]
+ },
+ {
+  "id": "ebca-whitefield",
+  "kind": "pandal",
+  "name": "EBCA Durga Puja",
+  "organiser": "EBCA",
+  "category": "Culture, art and food",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "tags": [
+   "Culture",
+   "Art",
+   "Free bhog"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates, venue and bhog times published by the organiser. Free entry.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "EBCA: Durga Puja 2026",
+    "url": "https://ebcafamily.com/durga-puja-bangalore-2026.php"
+   },
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/ebca-maha-durga-puja-2026-whitefield-bangalore-tickets/80003135313046"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "venueName": "Sri Manjunatha Swamy Kalyana Mantapa",
+  "address": "Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Whitefield, Bengaluru 560049",
+  "pincode": "560049",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "entry": "free",
+  "bhog": {
+   "time": "Daily 11:30 am–1 pm and 7–8:30 pm",
+   "access": "Free"
+  },
+  "programmes": [
+   "Maddox Square Book Fair",
+   "Patachitra live demo",
+   "Dhunuchi Naach and Dandiya night",
+   "Sindur Khela and Bijoya Sammilani"
+  ]
+ },
+ {
+  "id": "sarathi-koramangala",
+  "kind": "pandal",
+  "name": "Sarathi Socio-Cultural Trust Durga Puja",
+  "organiser": "Sarathi Socio-Cultural Trust",
+  "category": "Community and culture",
+  "area": "koramangala",
+  "subArea": "Koramangala",
+  "tags": [
+   "Community",
+   "Culture"
+  ],
+  "status": "published-2026",
+  "statusNote": "The organiser's 2026 page names Mangala Kalyana Mantapa (24th year). The \"5th Block ground\" listing belongs to a different puja. Daily hours are from a 2026 directory.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Sarathi: 2026 Durga Puja event",
+    "url": "https://sarathionline.org/durga-puja-event-bangalore/"
+   },
+   {
+    "label": "Newzchain 2026 puja directory",
+    "url": "https://pujo.newzchain.com/pujas/sarathi-socio-cultural-trust-durga-puja-2026"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "venueName": "Mangala Kalyana Mantapa",
+  "address": "Mangala Kalyana Mantapa, Ganapathi Temple Road, 7th Block, Koramangala, Bengaluru 560030",
+  "pincode": "560030",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "timings": "11 am–10:45 pm"
+ },
+ {
+  "id": "tridharaa-jp-nagar",
+  "kind": "pandal",
+  "name": "Tridharaa Sarbojonin Durgotsav",
+  "organiser": "Tridharaa",
+  "area": "south",
+  "subArea": "JP Nagar",
+  "tags": [
+   "Community"
+  ],
+  "status": "published-2026",
+  "statusNote": "From a 2026 pandal directory page; the organiser's own site was down when checked.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/tridharaa-sarbojonin-durgotsav-jp-nagar-8th-phase-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "venueName": "Keerthi Convention Hall",
+  "address": "Keerthi Convention Hall, Kothnur Dinne Main Road, opposite BWSSB water tank, JP Nagar 8th Phase, Bengaluru 560076",
+  "pincode": "560076",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "timings": "7 am–11 pm",
+  "category": "Theme: \"Three Streams. One Heart.\""
+ },
+ {
+  "id": "sanskritik-jp-nagar",
+  "kind": "pandal",
+  "name": "Sanskritik Durga Puja",
+  "organiser": "Sanskritik",
+  "area": "south",
+  "subArea": "JP Nagar",
+  "tags": [
+   "Community",
+   "Bhog",
+   "Free entry"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates and venue published by the organiser. One organiser page also shows 17–21 October.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Sanskritik",
+    "url": "https://sanskritik.org/"
+   },
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/sanskritik-durga-puja-2026-jp-nagar-bangalore/80002656051188"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "venueName": "Elite Banquet Hall",
+  "address": "Elite Banquet Hall, Puttenahalli Road, KR Layout, JP Nagar 6th Phase, Bengaluru 560078",
+  "pincode": "560078",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "timings": "Fri 16 Oct 3 pm to Wed 21 Oct 12 pm",
+  "entry": "free",
+  "bhog": {
+   "access": "Bhog on four days (times not published)"
+  },
+  "programmes": [
+   "Bhog on four days",
+   "Dhunuchi"
+  ]
+ },
+ {
+  "id": "rgbcf-hosa-road",
+  "kind": "pandal",
+  "name": "Rayasandra Gattahalli Bengali Cultural Forum (RGBCF) Durga Puja",
+  "organiser": "Rayasandra Gattahalli Bengali Cultural Forum",
+  "area": "south-east",
+  "subArea": "Electronic City",
+  "tags": [
+   "Community"
+  ],
+  "status": "published-2026",
+  "statusNote": "From a 2026 pandal directory page. Evening programmes 17–20 October.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/rgbcf-rayasandra-near-hosa-road-electronic-city-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "venueName": "Rayasandra Main Road, Gattahalli",
+  "address": "Rayasandra Main Road, Gattahalli, near Hosa Road, Bengaluru 560099",
+  "pincode": "560099",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-17",
+   "end": "2026-10-20"
+  },
+  "category": "4th year"
+ },
+ {
+  "id": "begur-trust",
+  "kind": "pandal",
+  "name": "Begur Bengali Socio Cultural Trust (BBCA) Durga Puja",
+  "organiser": "Begur Bengali Socio-Cultural Trust",
+  "area": "south-east",
+  "subArea": "Begur",
+  "tags": [
+   "Community",
+   "Live music",
+   "Mela"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates, venue and evening line-up published by the organiser.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/durga-puja-2026/80001542059737"
+   },
+   {
+    "label": "Begur Bengali: Durga Puja 2026",
+    "url": "https://begurbengali.in/durga-puja-2026/"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "venueName": "Milana Greens",
+  "address": "Milana Greens, 275/36/2, Mylasandra Road, Suraksha Nagar, Yelenahalli, Begur, Bengaluru 560068",
+  "pincode": "560068",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Sonajhuri Mela and flea market",
+   "Dandiya night with DJ Cheez",
+   "Rupankar Bagchi live",
+   "Ashmita Kar with InSync Band",
+   "Sindoor Khela and Bijoya"
+  ]
+ },
+ {
+  "id": "bhojohori-manna-koramangala",
+  "kind": "food",
+  "name": "Bhojohori Manna",
+  "category": "Bengali sit-down meal",
+  "foodType": "bengali",
+  "address": "668/B, 6th Block, 6th Cross, Koramangala Club Road, Bengaluru",
+  "area": "koramangala",
+  "subArea": "Koramangala",
+  "highlights": [
+   "Bengali meal"
+  ],
+  "status": "listed",
+  "statusNote": "Address from the official website. Check whether there is a festival menu, and the hours for your day.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Bhojohori Manna: official locations"
+   }
+  ],
+  "verifiedOn": "2026-10-14"
+ },
+ {
+  "id": "oh-calcutta-church-street",
+  "kind": "food",
+  "name": "Oh! Calcutta, Church Street",
+  "category": "Sit-down Bengali lunch or dinner",
+  "foodType": "bengali",
+  "address": "14, Church Street, 2nd Floor, Bengaluru",
+  "area": "ulsoor",
+  "subArea": "Church Street & MG Road",
+  "highlights": [
+   "Bengali dining"
+  ],
+  "status": "listed",
+  "statusNote": "Address from the official website. Check festival-day hours.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Oh! Calcutta: official locations"
+   }
+  ],
+  "verifiedOn": "2026-10-14"
+ },
+ {
+  "id": "oh-calcutta-whitefield",
+  "kind": "food",
+  "name": "Oh! Calcutta, Whitefield",
+  "category": "Bengali meal",
+  "foodType": "bengali",
+  "address": "28/2, 1st Floor, Siddapura, Whitefield Main Road, Bengaluru",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "highlights": [
+   "Bengali meal"
+  ],
+  "status": "listed",
+  "statusNote": "Address from the official website. Check festival-day hours.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Oh! Calcutta: official locations"
+   }
+  ],
+  "verifiedOn": "2026-10-14"
+ },
+ {
+  "id": "esplanade-indiranagar",
+  "kind": "food",
+  "name": "Esplanade",
+  "category": "Bengali restaurant",
+  "foodType": "bengali",
+  "address": "201, Double Road, Indiranagar, Bengaluru",
+  "area": "indiranagar",
+  "subArea": "Indiranagar",
+  "highlights": [
+   "Fish Orly",
+   "Kosha mangsho",
+   "Gondhoraj ghol",
+   "Bengali sweets"
+  ],
+  "status": "listed",
+  "statusNote": "Listings disagree on the building number (current listings give 201). Confirm the map pin before you go.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Esplanade: restaurant listing"
+   }
+  ],
+  "verifiedOn": "2026-10-14"
+ },
+ {
+  "id": "kc-das-st-marks",
+  "kind": "food",
+  "name": "K. C. Das",
+  "category": "Bengali sweets",
+  "foodType": "mishti",
+  "address": "48, St Marks Road, Bengaluru",
+  "area": "ulsoor",
+  "subArea": "Church Street & MG Road",
+  "highlights": [
+   "Rosogolla",
+   "Rasmanjuri",
+   "Ras kadam"
+  ],
+  "status": "listed",
+  "statusNote": "From a current delivery-platform listing. Check shop hours.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "K. C. Das: current listing"
+   }
+  ],
+  "verifiedOn": "2026-10-14"
+ },
+ {
+  "id": "banchharams-btm",
+  "kind": "food",
+  "name": "Banchharam's, BTM Layout",
+  "category": "Bengali sweets",
+  "foodType": "mishti",
+  "address": "153, BTM Layout, near Sheela Arcade, Bengaluru",
+  "area": "south-east",
+  "subArea": "BTM Layout",
+  "highlights": [
+   "Radhaballavi",
+   "Chamcham",
+   "Rasmalai"
+  ],
+  "status": "listed",
+  "statusNote": "Published as 153, BTM Layout, near Sheela Arcade (listed under Koramangala/BTM). Confirm the entrance and map pin.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Banchharam's: Koramangala/BTM listing"
+   }
+  ],
+  "verifiedOn": "2026-10-14"
+ },
+ {
+  "id": "banchharams-marathahalli",
+  "kind": "food",
+  "name": "Banchharam's, Marathahalli",
+  "category": "Bengali sweets and takeaway",
+  "foodType": "mishti",
+  "address": "Marathahalli Main Road, Bengaluru",
+  "area": "whitefield-hoodi",
+  "subArea": "Marathahalli",
+  "highlights": [
+   "Sandesh",
+   "Mishti doi",
+   "Takeaway sweets"
+  ],
+  "status": "listed",
+  "statusNote": "From a current delivery-platform listing. The exact shop number is not published here.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Banchharam's: Marathahalli listing"
+   }
+  ],
+  "verifiedOn": "2026-10-14"
+ },
+ {
+  "id": "empire-church-street",
+  "kind": "food",
+  "name": "Empire, Church Street",
+  "category": "Late-night dinner after a cultural evening",
+  "foodType": "late-night",
+  "address": "36, Church Street, Bengaluru",
+  "area": "ulsoor",
+  "subArea": "Church Street & MG Road",
+  "highlights": [
+   "Late dinner"
+  ],
+  "status": "listed",
+  "statusNote": "The listing advertises service until 2:30 am. Recheck last orders for your date.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Empire: branch hours listing"
+   }
+  ],
+  "verifiedOn": "2026-10-14"
+ },
+ {
+  "id": "barsha-ecity",
+  "kind": "pandal",
+  "name": "BARSHA Maha Durga Puja",
+  "organiser": "BARSHA",
+  "category": "11th edition, theme \"ANCHAL\", Kumartuli idol",
+  "venueName": "South Avenue Grounds",
+  "address": "South Avenue Grounds, behind Electronic City metro, entry from NICE Road toll junction, Konappana Agrahara, Bengaluru 560100",
+  "area": "south-east",
+  "subArea": "Electronic City",
+  "pincode": "560100",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "timings": "Fri 16 Oct 8 am to Wed 21 Oct 12:30 pm",
+  "programmes": [
+   "Theme: ANCHAL",
+   "Kumartuli idol",
+   "Celebrity performances (dates not listed)"
+  ],
+  "tags": [
+   "Theme pandal",
+   "Big celebration",
+   "Performances"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates, venue and theme published by the organiser and two 2026 news guides.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "BARSHA: Durga Puja 2026",
+    "url": "https://www.barshabangalore.org/event/best-durga-puja-in-bangalore-2026/"
+   },
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "ecca-ecity",
+  "kind": "pandal",
+  "name": "Electronic City Cultural Association (ECCA) Durga Puja",
+  "organiser": "Electronic City Cultural Association",
+  "venueName": "White Feather Convention Centre",
+  "address": "White Feather Convention Centre, NICE Toll Gate, Konappana Agrahara, Electronic City, Bengaluru",
+  "area": "south-east",
+  "subArea": "Electronic City",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "ECCA Dandiya Night '26, Tue 20 Oct (paid)"
+  ],
+  "tags": [
+   "Community",
+   "Dandiya"
+  ],
+  "status": "published-2026",
+  "statusNote": "Venue confirmed by the organiser's 2026 Dandiya listing and a 2026 news guide. Puja dates are from a 2026 directory.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "ECCA Dandiya Night '26 on allevents.in",
+    "url": "https://allevents.in/bangalore/ecca-dandiya-night-26-electronic-city/4100030742282513"
+   },
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   },
+   {
+    "label": "Newzchain 2026 puja directory",
+    "url": "https://pujo.newzchain.com/pujas/electronic-city-cultural-association-durga-puja-2026"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "utsav-bilekahalli",
+  "kind": "pandal",
+  "name": "Utsav Bangalore: 15th Durga Puja",
+  "organiser": "Utsav Bangalore",
+  "venueName": "Mulki Sundar Ram Shetty Sabhangana",
+  "address": "Mulki Sundar Ram Shetty Sabhangana, 9th Main Road, Vijaya Bank Layout, Bengaluru 560076",
+  "area": "south-east",
+  "subArea": "Bilekahalli",
+  "pincode": "560076",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-15",
+   "end": "2026-10-21"
+  },
+  "timings": "Opens Thu 15 Oct 7:30 pm",
+  "programmes": [
+   "Bhog",
+   "Dhunuchi",
+   "Flea market"
+  ],
+  "tags": [
+   "Bhog",
+   "Dhunuchi",
+   "Flea market"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates and venue published by the organiser.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/utsav-durgapuja/200030712380539"
+   },
+   {
+    "label": "Utsav Bangalore",
+    "url": "https://utsav-bangalore.com/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "binb-dairy-circle",
+  "kind": "pandal",
+  "name": "Bengali in Bangalore (BinB) Durgotsav",
+  "organiser": "Bengali in Bangalore",
+  "venueName": "Chandrodaya Convention Center",
+  "address": "Chandrodaya Convention Center, 39/2 Bannerghatta Main Road, Dairy Circle, Bengaluru",
+  "area": "south-east",
+  "subArea": "Bannerghatta Road",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "timings": "Fri 16 Oct 10 am to Wed 21 Oct 1 pm",
+  "programmes": [
+   "Dhunuchi",
+   "Cultural programmes",
+   "Food stalls"
+  ],
+  "tags": [
+   "Cultural programmes",
+   "Food stalls"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates and venue published by the organiser.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "BinB: Durga Puja 2026",
+    "url": "https://www.bengaliinbangalore.org/event/durga-puja-2026/"
+   },
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/binb-durgotsav-2026/200030420755254"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "eisha-hsr",
+  "kind": "pandal",
+  "name": "EISHA Durga Puja",
+  "organiser": "East Indian Social HSR Association (EISHA)",
+  "category": "11th year, Jamini Roy theme",
+  "venueName": "HSR BDA Complex",
+  "address": "HSR BDA Complex, 12th Main Road, Sector 6, HSR Layout, Bengaluru",
+  "area": "hsr-layout",
+  "subArea": "HSR Layout",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Jamini Roy theme",
+   "Chhau dance, Mon 19 Oct"
+  ],
+  "tags": [
+   "Theme pandal",
+   "Pet-friendly"
+  ],
+  "status": "published-2026",
+  "statusNote": "Venue, theme and programme from two 2026 news guides.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "sebba-hsr",
+  "kind": "pandal",
+  "name": "SEBBA Durga Puja",
+  "organiser": "South East Bengaluru Bengali Association (SEBBA)",
+  "category": "Theme: \"Oitijhye Ananya\"",
+  "venueName": "The White House Convention Centre",
+  "address": "The White House Convention Centre, 4B, 14th Main Road, next to BDA Complex, Sector 6, HSR Layout, Bengaluru",
+  "area": "hsr-layout",
+  "subArea": "HSR Layout",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-17",
+   "end": "2026-10-21"
+  },
+  "tags": [
+   "Theme pandal",
+   "Community"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates, venue and theme published by the organiser.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "SEBBA",
+    "url": "https://sebba.in/"
+   },
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/south-east-bengaluru-bengali-association-durga-puja-hsr-layout-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "apoorba-bellandur",
+  "kind": "pandal",
+  "name": "APOORBA Sharadotsav",
+  "organiser": "APOORBA",
+  "venueName": "Temple Ground, Adarsh Palm Retreat Villas",
+  "address": "Temple Ground, Adarsh Palm Retreat Villas, Bellandur, Bengaluru 560103",
+  "area": "hsr-layout",
+  "subArea": "Bellandur",
+  "pincode": "560103",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Dandiya night, Sat 17 Oct",
+   "Dhunuchi competition and DJ night, Tue 20 Oct",
+   "Sindoor Khela, Wed 21 Oct"
+  ],
+  "entry": "free",
+  "tags": [
+   "Free entry",
+   "Dandiya",
+   "Dhunuchi"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates, venue and programme published by the organiser. Free entry.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "APOORBA Pujo",
+    "url": "https://www.apoorbapujo.in/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "amra-kajon-koramangala",
+  "kind": "pandal",
+  "name": "Amra Kajon Bengaluru Cultural Association Durga Puja",
+  "organiser": "Amra Kajon Bengaluru Cultural Association",
+  "venueName": "Bheemachandra Kala Mantapa",
+  "address": "Bheemachandra Kala Mantapa, 1st Main Road, 7th Block, Koramangala, Bengaluru 560095",
+  "area": "koramangala",
+  "subArea": "Koramangala",
+  "pincode": "560095",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Aritra Dasgupta, Sun 18 Oct",
+   "Chandrika Bhattacharya, Mon 19 Oct",
+   "Jimut Roy, Tue 20 Oct"
+  ],
+  "tags": [
+   "Live music",
+   "Community"
+  ],
+  "status": "published-2026",
+  "statusNote": "From a 2026 pandal directory page.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/amra-kajon-bengaluru-cult"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "varthur-ba",
+  "kind": "pandal",
+  "name": "Varthur Bengali Association Durga Puja",
+  "organiser": "Varthur Bengali Association",
+  "category": "Theme: \"Doshe Doshobhuja\"",
+  "venueName": "CSK Mall",
+  "address": "CSK Mall, Varthur Main Road, Gunjur, Bengaluru 560049",
+  "area": "whitefield-hoodi",
+  "subArea": "Varthur",
+  "pincode": "560049",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Disco Dandiya with DJ Yash, Sat 17 Oct",
+   "Musication, Mon 19 Oct",
+   "Alpin, Tue 20 Oct"
+  ],
+  "tags": [
+   "Theme pandal",
+   "Live music",
+   "Dandiya"
+  ],
+  "status": "published-2026",
+  "statusNote": "Dates, venue, theme and programme published by the organiser.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Varthur Bengali Association: Durga Puja",
+    "url": "https://varthurbengaliassociation.in/durga-puja/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "jbca-kr-puram",
+  "kind": "pandal",
+  "name": "Jagriti Bangiyo Cultural Association (JBCA) Durga Puja",
+  "organiser": "Jagriti Bangiyo Cultural Association",
+  "venueName": "ITI Ground",
+  "address": "ITI Ground, beside the Hanging Bridge, KR Puram, Bengaluru",
+  "area": "whitefield-hoodi",
+  "subArea": "KR Puram",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "All-women dhak team",
+   "Food stalls and rides"
+  ],
+  "tags": [
+   "Dhak",
+   "Food stalls",
+   "Fair"
+  ],
+  "status": "published-2026",
+  "statusNote": "Venue and programme from two 2026 news guides.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "uttaran-kasturinagar",
+  "kind": "pandal",
+  "name": "Uttaran \"Dashabhuja 2026\"",
+  "organiser": "Uttaran",
+  "category": "Red-and-white traditional theme",
+  "venueName": "New Horizon College",
+  "address": "New Horizon College, Kasturinagar, Bengaluru",
+  "area": "indiranagar",
+  "subArea": "Kasturinagar",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Red-and-white traditional decor",
+   "Recycled materials and alpona"
+  ],
+  "tags": [
+   "Theme pandal",
+   "Traditional"
+  ],
+  "status": "published-2026",
+  "statusNote": "From a 2026 Deccan Herald report. Check the exact entrance before you go.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Deccan Herald, 14 Oct 2026",
+    "url": "https://www.deccanherald.com/amp/story/india/karnataka/bengaluru/lotus-theme-red-and-white-decor-to-mark-durga-puja-in-bengaluru-4181746"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "bdpc-palace-grounds",
+  "kind": "pandal",
+  "name": "Bengaluru Durga Puja Committee (BDPC)",
+  "organiser": "Bengaluru Durga Puja Committee",
+  "venueName": "The Grand Castle, Palace Grounds Gate 6",
+  "address": "The Grand Castle, Palace Grounds Gate 6, Bellary Road, near Mekhri Circle, Bengaluru",
+  "area": "rt-nagar-palace-grounds",
+  "subArea": "Palace Grounds",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Bhog",
+   "Cultural programme",
+   "Food court"
+  ],
+  "tags": [
+   "Bhog",
+   "Cultural programme",
+   "Food court"
+  ],
+  "status": "published-2026",
+  "statusNote": "Venue and programme from two 2026 news guides.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "oikotan-jakkur",
+  "kind": "pandal",
+  "name": "Oikotan Hebbal Cultural Society Durga Puja",
+  "organiser": "Oikotan Hebbal Cultural Society",
+  "category": "New venue for 2026, theme \"Egypt\"",
+  "venueName": "EBISU Convention Center",
+  "address": "EBISU Convention Center, Hegde Nagar Main Road, Jakkur, opposite Regal Hospital, Bengaluru",
+  "area": "rt-nagar-palace-grounds",
+  "subArea": "Hebbal–Jakkur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Theme: Egypt",
+   "Rahul Dutta, Mon 19 Oct",
+   "Lopamudra Mitra, Tue 20 Oct"
+  ],
+  "tags": [
+   "Theme pandal",
+   "Live music"
+  ],
+  "status": "published-2026",
+  "statusNote": "New 2026 venue, theme and artists from two 2026 news guides.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "jayamahal-sarbajanin",
+  "kind": "pandal",
+  "name": "Jayamahal Sarbajanin Durga Puja",
+  "organiser": "Jayamahal Sarbajanin",
+  "category": "72nd year",
+  "venueName": "Jayamahal Ladies Club Ground",
+  "address": "Jayamahal Ladies Club Ground, next to Jayamahal Park, Bengaluru",
+  "area": "rt-nagar-palace-grounds",
+  "subArea": "Jayamahal",
+  "tags": [
+   "Community"
+  ],
+  "status": "awaiting-confirmation",
+  "statusNote": "A 2026 news guide names this puja, but only a blog gives the venue and edition, and 2026 dates are not published. Directions are off until the venue is confirmed.",
+  "directionsEnabled": false,
+  "sources": [
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "nbcs-mahalakshmipuram",
+  "kind": "pandal",
+  "name": "North Bangalore Cultural Samiti: 49th Durga Puja",
+  "organiser": "North Bangalore Cultural Samiti",
+  "category": "Theme \"Shatadal\" (lotus), idol by Tarun Pal",
+  "venueName": "Bangalore Kali Bari",
+  "address": "Bangalore Kali Bari, Nandini Layout / Mahalakshmipuram, Bengaluru",
+  "area": "malleswaram",
+  "subArea": "Mahalakshmipuram",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-21"
+  },
+  "programmes": [
+   "Theme: Shatadal (lotus)",
+   "Idol by Tarun Pal"
+  ],
+  "tags": [
+   "Theme pandal",
+   "Kali Bari"
+  ],
+  "status": "published-2026",
+  "statusNote": "From a 2026 Deccan Herald report. The exact street address is not in the article.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "Deccan Herald, 14 Oct 2026",
+    "url": "https://www.deccanherald.com/amp/story/india/karnataka/bengaluru/lotus-theme-red-and-white-decor-to-mark-durga-puja-in-bengaluru-4181746"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "sca-indiranagar",
+  "kind": "pandal",
+  "name": "Socio-Cultural Association, Indiranagar: 58th Durga Puja",
+  "organiser": "Socio-Cultural Association, Indiranagar",
+  "category": "58th year",
+  "venueName": "Sishu Griha Senior School Ground",
+  "address": "Sishu Griha Senior School Ground, HAL 3rd Stage, New Tippasandra, Bengaluru",
+  "area": "indiranagar",
+  "subArea": "HAL 3rd Stage",
+  "tags": [
+   "Community"
+  ],
+  "status": "awaiting-confirmation",
+  "statusNote": "A 2026 news guide names this puja but says \"HAL 2nd Stage\"; a blog says Sishu Griha School, HAL 3rd Stage. Dates are not published. Directions are off until the venue is confirmed.",
+  "directionsEnabled": false,
+  "sources": [
+   {
+    "label": "Asianet Newsable, 9 Oct 2026",
+    "url": "https://newsable.asianetnews.com/gallery/lifestyle/bengaluru-durga-puja-guide-2026-10-pandals-to-visit-for-memorable-celebration-pq2n2lo"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "begur-mela",
+  "kind": "event",
+  "name": "Opening, Sonajhuri Mela and flea market",
+  "organiser": "Begur Bengali Socio-Cultural Trust",
+  "category": "Mela",
+  "venueName": "Milana Greens",
+  "address": "Milana Greens, 275/36/2, Mylasandra Road, Suraksha Nagar, Yelenahalli, Begur, Bengaluru 560068",
+  "area": "south-east",
+  "subArea": "Begur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-16"
+  },
+  "tags": [
+   "Mela"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "begur-trust",
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/durga-puja-2026/80001542059737"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "begur-dandiya",
+  "kind": "event",
+  "name": "Dandiya night with DJ Cheez",
+  "organiser": "Begur Bengali Socio-Cultural Trust",
+  "category": "Dandiya",
+  "venueName": "Milana Greens",
+  "address": "Milana Greens, 275/36/2, Mylasandra Road, Suraksha Nagar, Yelenahalli, Begur, Bengaluru 560068",
+  "area": "south-east",
+  "subArea": "Begur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-17",
+   "end": "2026-10-17"
+  },
+  "timings": "7:30 pm",
+  "tags": [
+   "Dandiya"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "begur-trust",
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/durga-puja-2026/80001542059737"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "begur-rupankar",
+  "kind": "event",
+  "name": "Rupankar Bagchi live",
+  "organiser": "Begur Bengali Socio-Cultural Trust",
+  "category": "Live music",
+  "venueName": "Milana Greens",
+  "address": "Milana Greens, 275/36/2, Mylasandra Road, Suraksha Nagar, Yelenahalli, Begur, Bengaluru 560068",
+  "area": "south-east",
+  "subArea": "Begur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-18",
+   "end": "2026-10-18"
+  },
+  "timings": "7:30 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "begur-trust",
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/durga-puja-2026/80001542059737"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "begur-ashmita",
+  "kind": "event",
+  "name": "Ashmita Kar with InSync Band",
+  "organiser": "Begur Bengali Socio-Cultural Trust",
+  "category": "Live music",
+  "venueName": "Milana Greens",
+  "address": "Milana Greens, 275/36/2, Mylasandra Road, Suraksha Nagar, Yelenahalli, Begur, Bengaluru 560068",
+  "area": "south-east",
+  "subArea": "Begur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-20",
+   "end": "2026-10-20"
+  },
+  "timings": "7:30 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "begur-trust",
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/durga-puja-2026/80001542059737"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "begur-sindoor",
+  "kind": "event",
+  "name": "Sindoor Khela and Bijoya",
+  "organiser": "Begur Bengali Socio-Cultural Trust",
+  "category": "Ritual",
+  "venueName": "Milana Greens",
+  "address": "Milana Greens, 275/36/2, Mylasandra Road, Suraksha Nagar, Yelenahalli, Begur, Bengaluru 560068",
+  "area": "south-east",
+  "subArea": "Begur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-21",
+   "end": "2026-10-21"
+  },
+  "tags": [
+   "Ritual"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "begur-trust",
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/durga-puja-2026/80001542059737"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "bss-sindoor",
+  "kind": "event",
+  "name": "Sindoor Khela",
+  "organiser": "Bengaluru Sreehatta Sammelani (BSS)",
+  "category": "Ritual",
+  "venueName": "The Occasion Bengaluru",
+  "address": "The Occasion Bangalore, Anup Layout, KR Puram Road, Hoodi, Bengaluru 560048",
+  "area": "whitefield-hoodi",
+  "subArea": "Hoodi",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-21",
+   "end": "2026-10-21"
+  },
+  "timings": "10:30 am",
+  "tags": [
+   "Ritual"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "bss-hoodi",
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/bss-durga-puja-2026/200030826283056"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "oikotan-rahul-dutta",
+  "kind": "event",
+  "name": "Rahul Dutta live",
+  "organiser": "Oikotan Hebbal Cultural Society",
+  "category": "Live music",
+  "venueName": "EBISU Convention Center",
+  "address": "EBISU Convention Center, Hegde Nagar Main Road, Jakkur, opposite Regal Hospital, Bengaluru",
+  "area": "rt-nagar-palace-grounds",
+  "subArea": "Hebbal–Jakkur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-19",
+   "end": "2026-10-19"
+  },
+  "timings": "Night",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "oikotan-jakkur",
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "oikotan-lopamudra",
+  "kind": "event",
+  "name": "Lopamudra Mitra live",
+  "organiser": "Oikotan Hebbal Cultural Society",
+  "category": "Live music",
+  "venueName": "EBISU Convention Center",
+  "address": "EBISU Convention Center, Hegde Nagar Main Road, Jakkur, opposite Regal Hospital, Bengaluru",
+  "area": "rt-nagar-palace-grounds",
+  "subArea": "Hebbal–Jakkur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-20",
+   "end": "2026-10-20"
+  },
+  "timings": "Night",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "oikotan-jakkur",
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "eisha-chhau",
+  "kind": "event",
+  "name": "Chhau dance performance",
+  "organiser": "East Indian Social HSR Association (EISHA)",
+  "category": "Dance",
+  "venueName": "HSR BDA Complex",
+  "address": "HSR BDA Complex, 12th Main Road, Sector 6, HSR Layout, Bengaluru",
+  "area": "hsr-layout",
+  "subArea": "HSR Layout",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-19",
+   "end": "2026-10-19"
+  },
+  "timings": "7 pm",
+  "tags": [
+   "Dance"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "eisha-hsr",
+  "sources": [
+   {
+    "label": "Boldsky, 15 Oct 2026",
+    "url": "https://www.boldsky.com/insync/pandal-hopping-in-bengaluru-2026-7-durga-puja-venues-worth-your-time-173351.html"
+   },
+   {
+    "label": "My Travelling Stilettos (updated 12 Oct 2026)",
+    "url": "https://mytravellingstilettos.com/top-places-to-see-durga-puja-in-bangalore/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "tridharaa-mahishasura",
+  "kind": "event",
+  "name": "Mahishasura Mardini",
+  "organiser": "Tridharaa",
+  "category": "Performance",
+  "venueName": "Keerthi Convention Hall",
+  "address": "Keerthi Convention Hall, Kothnur Dinne Main Road, opposite BWSSB water tank, JP Nagar 8th Phase, Bengaluru 560076",
+  "area": "south",
+  "subArea": "JP Nagar",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-16"
+  },
+  "timings": "8 pm",
+  "tags": [
+   "Performance"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "tridharaa-jp-nagar",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/tridharaa-sarbojonin-durgotsav-jp-nagar-8th-phase-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "tridharaa-rahul-deb",
+  "kind": "event",
+  "name": "Rahul Deb live",
+  "organiser": "Tridharaa",
+  "category": "Live music",
+  "venueName": "Keerthi Convention Hall",
+  "address": "Keerthi Convention Hall, Kothnur Dinne Main Road, opposite BWSSB water tank, JP Nagar 8th Phase, Bengaluru 560076",
+  "area": "south",
+  "subArea": "JP Nagar",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-19",
+   "end": "2026-10-19"
+  },
+  "timings": "8–10 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "tridharaa-jp-nagar",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/tridharaa-sarbojonin-durgotsav-jp-nagar-8th-phase-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "amrakajon-aritra",
+  "kind": "event",
+  "name": "Aritra Dasgupta musical night",
+  "organiser": "Amra Kajon Bengaluru Cultural Association",
+  "category": "Live music",
+  "venueName": "Bheemachandra Kala Mantapa",
+  "address": "Bheemachandra Kala Mantapa, 1st Main Road, 7th Block, Koramangala, Bengaluru 560095",
+  "area": "koramangala",
+  "subArea": "Koramangala",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-18",
+   "end": "2026-10-18"
+  },
+  "timings": "7–10 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "amra-kajon-koramangala",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/amra-kajon-bengaluru-cult"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "amrakajon-chandrika",
+  "kind": "event",
+  "name": "Chandrika Bhattacharya live",
+  "organiser": "Amra Kajon Bengaluru Cultural Association",
+  "category": "Live music",
+  "venueName": "Bheemachandra Kala Mantapa",
+  "address": "Bheemachandra Kala Mantapa, 1st Main Road, 7th Block, Koramangala, Bengaluru 560095",
+  "area": "koramangala",
+  "subArea": "Koramangala",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-19",
+   "end": "2026-10-19"
+  },
+  "timings": "7–10 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "amra-kajon-koramangala",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/amra-kajon-bengaluru-cult"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "amrakajon-jimut",
+  "kind": "event",
+  "name": "Jimut Roy live",
+  "organiser": "Amra Kajon Bengaluru Cultural Association",
+  "category": "Live music",
+  "venueName": "Bheemachandra Kala Mantapa",
+  "address": "Bheemachandra Kala Mantapa, 1st Main Road, 7th Block, Koramangala, Bengaluru 560095",
+  "area": "koramangala",
+  "subArea": "Koramangala",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-20",
+   "end": "2026-10-20"
+  },
+  "timings": "7–10 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "amra-kajon-koramangala",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/amra-kajon-bengaluru-cult"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "rgbcf-mehroon",
+  "kind": "event",
+  "name": "Mehroon live",
+  "organiser": "Rayasandra Gattahalli Bengali Cultural Forum",
+  "category": "Live music",
+  "venueName": "Rayasandra Main Road, Gattahalli",
+  "address": "Rayasandra Main Road, Gattahalli, near Hosa Road, Bengaluru 560099",
+  "area": "south-east",
+  "subArea": "Electronic City",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-17",
+   "end": "2026-10-17"
+  },
+  "timings": "7–10 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "rgbcf-hosa-road",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/rgbcf-rayasandra-near-hosa-road-electronic-city-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "rgbcf-musication",
+  "kind": "event",
+  "name": "Musication live",
+  "organiser": "Rayasandra Gattahalli Bengali Cultural Forum",
+  "category": "Live music",
+  "venueName": "Rayasandra Main Road, Gattahalli",
+  "address": "Rayasandra Main Road, Gattahalli, near Hosa Road, Bengaluru 560099",
+  "area": "south-east",
+  "subArea": "Electronic City",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-18",
+   "end": "2026-10-18"
+  },
+  "timings": "7–10 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "rgbcf-hosa-road",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/rgbcf-rayasandra-near-hosa-road-electronic-city-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "rgbcf-amader-aashor",
+  "kind": "event",
+  "name": "Amader Aashor live",
+  "organiser": "Rayasandra Gattahalli Bengali Cultural Forum",
+  "category": "Live music",
+  "venueName": "Rayasandra Main Road, Gattahalli",
+  "address": "Rayasandra Main Road, Gattahalli, near Hosa Road, Bengaluru 560099",
+  "area": "south-east",
+  "subArea": "Electronic City",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-19",
+   "end": "2026-10-19"
+  },
+  "timings": "7–10 pm",
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "rgbcf-hosa-road",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/rgbcf-rayasandra-near-hosa-road-electronic-city-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "rgbcf-dandiya",
+  "kind": "event",
+  "name": "Dandiya night with DJ Heaven",
+  "organiser": "Rayasandra Gattahalli Bengali Cultural Forum",
+  "category": "Dandiya",
+  "venueName": "Rayasandra Main Road, Gattahalli",
+  "address": "Rayasandra Main Road, Gattahalli, near Hosa Road, Bengaluru 560099",
+  "area": "south-east",
+  "subArea": "Electronic City",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-20",
+   "end": "2026-10-20"
+  },
+  "timings": "7–10 pm",
+  "tags": [
+   "Dandiya"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "rgbcf-hosa-road",
+  "sources": [
+   {
+    "label": "Pujorpoth 2026 pandal page",
+    "url": "https://pujorpoth.in/pandal/rgbcf-rayasandra-near-hosa-road-electronic-city-bengaluru"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "varthur-dandiya",
+  "kind": "event",
+  "name": "Disco Dandiya with DJ Yash",
+  "organiser": "Varthur Bengali Association",
+  "category": "Dandiya",
+  "venueName": "CSK Mall",
+  "address": "CSK Mall, Varthur Main Road, Gunjur, Bengaluru 560049",
+  "area": "whitefield-hoodi",
+  "subArea": "Varthur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-17",
+   "end": "2026-10-17"
+  },
+  "timings": "7–9:30 pm",
+  "tags": [
+   "Dandiya"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "varthur-ba",
+  "sources": [
+   {
+    "label": "Varthur Bengali Association: Durga Puja",
+    "url": "https://varthurbengaliassociation.in/durga-puja/"
+   },
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/dandiya-durga-puja/3900030829424309"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "varthur-musication",
+  "kind": "event",
+  "name": "Musication, the band",
+  "organiser": "Varthur Bengali Association",
+  "category": "Live music",
+  "venueName": "CSK Mall",
+  "address": "CSK Mall, Varthur Main Road, Gunjur, Bengaluru 560049",
+  "area": "whitefield-hoodi",
+  "subArea": "Varthur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-19",
+   "end": "2026-10-19"
+  },
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "varthur-ba",
+  "sources": [
+   {
+    "label": "Varthur Bengali Association: Durga Puja",
+    "url": "https://varthurbengaliassociation.in/durga-puja/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "varthur-alpin",
+  "kind": "event",
+  "name": "Alpin, the rock band",
+  "organiser": "Varthur Bengali Association",
+  "category": "Live music",
+  "venueName": "CSK Mall",
+  "address": "CSK Mall, Varthur Main Road, Gunjur, Bengaluru 560049",
+  "area": "whitefield-hoodi",
+  "subArea": "Varthur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-20",
+   "end": "2026-10-20"
+  },
+  "tags": [
+   "Live music"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "varthur-ba",
+  "sources": [
+   {
+    "label": "Varthur Bengali Association: Durga Puja",
+    "url": "https://varthurbengaliassociation.in/durga-puja/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "ebca-book-fair",
+  "kind": "event",
+  "name": "Maddox Square Book Fair opens",
+  "organiser": "EBCA",
+  "category": "Fair",
+  "venueName": "Sri Manjunatha Swamy Kalyana Mantapa",
+  "address": "Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Whitefield, Bengaluru 560049",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-16",
+   "end": "2026-10-16"
+  },
+  "tags": [
+   "Fair"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "ebca-whitefield",
+  "sources": [
+   {
+    "label": "EBCA: Durga Puja 2026",
+    "url": "https://ebcafamily.com/durga-puja-bangalore-2026.php"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "ebca-patachitra",
+  "kind": "event",
+  "name": "Patachitra live demo",
+  "organiser": "EBCA",
+  "category": "Art",
+  "venueName": "Sri Manjunatha Swamy Kalyana Mantapa",
+  "address": "Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Whitefield, Bengaluru 560049",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-17",
+   "end": "2026-10-17"
+  },
+  "tags": [
+   "Art"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "ebca-whitefield",
+  "sources": [
+   {
+    "label": "EBCA: Durga Puja 2026",
+    "url": "https://ebcafamily.com/durga-puja-bangalore-2026.php"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "ebca-dhunuchi",
+  "kind": "event",
+  "name": "Dhunuchi Naach and Dandiya night",
+  "organiser": "EBCA",
+  "category": "Dance",
+  "venueName": "Sri Manjunatha Swamy Kalyana Mantapa",
+  "address": "Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Whitefield, Bengaluru 560049",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-20",
+   "end": "2026-10-20"
+  },
+  "tags": [
+   "Dance"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "ebca-whitefield",
+  "sources": [
+   {
+    "label": "EBCA: Durga Puja 2026",
+    "url": "https://ebcafamily.com/durga-puja-bangalore-2026.php"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "ebca-sindur",
+  "kind": "event",
+  "name": "Sindur Khela and Bijoya Sammilani",
+  "organiser": "EBCA",
+  "category": "Ritual",
+  "venueName": "Sri Manjunatha Swamy Kalyana Mantapa",
+  "address": "Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Whitefield, Bengaluru 560049",
+  "area": "whitefield-hoodi",
+  "subArea": "Whitefield",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-21",
+   "end": "2026-10-21"
+  },
+  "tags": [
+   "Ritual"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "ebca-whitefield",
+  "sources": [
+   {
+    "label": "EBCA: Durga Puja 2026",
+    "url": "https://ebcafamily.com/durga-puja-bangalore-2026.php"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "apoorba-dandiya",
+  "kind": "event",
+  "name": "Dandiya night",
+  "organiser": "APOORBA",
+  "category": "Dandiya",
+  "venueName": "Temple Ground, Adarsh Palm Retreat Villas",
+  "address": "Temple Ground, Adarsh Palm Retreat Villas, Bellandur, Bengaluru 560103",
+  "area": "hsr-layout",
+  "subArea": "Bellandur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-17",
+   "end": "2026-10-17"
+  },
+  "timings": "Evening",
+  "tags": [
+   "Dandiya"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "apoorba-bellandur",
+  "sources": [
+   {
+    "label": "APOORBA Pujo",
+    "url": "https://www.apoorbapujo.in/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "apoorba-dhunuchi",
+  "kind": "event",
+  "name": "Dhunuchi competition, then DJ night",
+  "organiser": "APOORBA",
+  "category": "Dance",
+  "venueName": "Temple Ground, Adarsh Palm Retreat Villas",
+  "address": "Temple Ground, Adarsh Palm Retreat Villas, Bellandur, Bengaluru 560103",
+  "area": "hsr-layout",
+  "subArea": "Bellandur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-20",
+   "end": "2026-10-20"
+  },
+  "timings": "Evening",
+  "tags": [
+   "Dance"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "apoorba-bellandur",
+  "sources": [
+   {
+    "label": "APOORBA Pujo",
+    "url": "https://www.apoorbapujo.in/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "apoorba-sindoor",
+  "kind": "event",
+  "name": "Sindoor Khela",
+  "organiser": "APOORBA",
+  "category": "Ritual",
+  "venueName": "Temple Ground, Adarsh Palm Retreat Villas",
+  "address": "Temple Ground, Adarsh Palm Retreat Villas, Bellandur, Bengaluru 560103",
+  "area": "hsr-layout",
+  "subArea": "Bellandur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-21",
+   "end": "2026-10-21"
+  },
+  "timings": "12–1:30 pm",
+  "tags": [
+   "Ritual"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "apoorba-bellandur",
+  "sources": [
+   {
+    "label": "APOORBA Pujo",
+    "url": "https://www.apoorbapujo.in/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ },
+ {
+  "id": "ecca-dandiya",
+  "kind": "event",
+  "name": "ECCA Dandiya Night '26 with Hitesh & Rishabh Mehta live",
+  "organiser": "Electronic City Cultural Association",
+  "category": "Dandiya",
+  "venueName": "White Feather Convention Centre",
+  "address": "White Feather Convention Centre, NICE Toll Gate, Konappana Agrahara, Electronic City, Bengaluru",
+  "area": "south-east",
+  "subArea": "Electronic City",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-20",
+   "end": "2026-10-20"
+  },
+  "timings": "8–11 pm",
+  "entry": "ticketed",
+  "tags": [
+   "Dandiya"
+  ],
+  "status": "published-2026",
+  "directionsEnabled": true,
+  "relatedTo": "ecca-ecity",
+  "sources": [
+   {
+    "label": "Organiser listing on allevents.in",
+    "url": "https://allevents.in/bangalore/ecca-dandiya-night-26-electronic-city/4100030742282513"
+   }
+  ],
+  "verifiedOn": "2026-10-15",
+  "statusNote": "Paid entry: ₹700 single, ₹1,000 couple."
+ },
+ {
+  "id": "hilton-puja-on-a-plate",
+  "kind": "event",
+  "name": "\"Puja on a Plate\" Bengali food festival",
+  "organiser": "Hilton Bangalore Embassy GolfLinks",
+  "category": "Food festival",
+  "venueName": "DYN, Hilton Bangalore Embassy GolfLinks",
+  "address": "Hilton Bangalore Embassy GolfLinks, Embassy GolfLinks Business Park, Domlur, Bengaluru",
+  "area": "indiranagar",
+  "subArea": "Domlur",
+  "editionYear": 2026,
+  "dates": {
+   "start": "2026-10-19",
+   "end": "2026-10-20"
+  },
+  "timings": "12:30–3 pm",
+  "entry": "ticketed",
+  "tags": [
+   "Food festival",
+   "Bengali food"
+  ],
+  "status": "published-2026",
+  "statusNote": "Priced at ₹2,500 plus taxes.",
+  "directionsEnabled": true,
+  "sources": [
+   {
+    "label": "PNI News, 14 Oct 2026",
+    "url": "https://www.pninews.com/puja-on-a-plate-hilton-bangalore-embassy-golflinks-hosts-a-bengali-food-festival/"
+   }
+  ],
+  "verifiedOn": "2026-10-15"
+ }
+]
